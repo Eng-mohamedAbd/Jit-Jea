@@ -16,3 +16,5 @@ git commit -m "JIT has been uploaded"
 git push origin main
 
 
+fetch
+
