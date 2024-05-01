@@ -11,4 +11,8 @@ git add .
 git commit -m "some comment"
 git commit -am "some comment"
 
+git add .
+git commit -m "JIT has been uploaded"
+git push origin main
+
 
