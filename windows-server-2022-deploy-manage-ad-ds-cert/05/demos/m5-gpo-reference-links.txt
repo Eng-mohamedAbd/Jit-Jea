@@ -1,0 +1,60 @@
+Module 5: Manage Windows Server with Group Policy
+
+Microsoft Certified: Windows Server Hybrid Administrator Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/
+
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-800
+
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-801
+
+Group Policy Administration | Pluralsight
+https://www.pluralsight.com/paths/group-policy-administration
+
+Group Policy Fundamentals | Pluralsight
+https://www.pluralsight.com/courses/group-policy-fundamentals
+
+Group Policy: Advanced Targeting | Pluralsight
+https://www.pluralsight.com/courses/group-policy-advanced-targeting
+
+Best Practices for Group Policy Deployment | Pluralsight
+https://www.pluralsight.com/courses/group-policy-deploy-manage-best-practices
+
+Implement Group Policy Objects - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/implement-group-policy-objects/
+
+Group Policy Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11)
+
+Group Policy Objects | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-objects
+
+Filtering the Scope of a GPO | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/filtering-the-scope-of-a-gpo
+
+Overriding and Blocking Group Policy | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/overriding-and-blocking-group-policy
+
+Refresh Group Policy | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/refresh-group-policy
+
+Force a Remote Group Policy Refresh (GPUpdate) | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj134201(v=ws.11)
+
+Check Group Policy Infrastructure Status | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj134176(v=ws.11)
+
+Azure AD Password Protection - Azure Active Directory | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises
+
+Password protection in Azure Active Directory | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad
+
+Resultant Set of Policy | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn265978(v=ws.11)
+
+gpresult | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult
+
+

@@ -1,0 +1,60 @@
+Module 1: Deploy and Manage Domain Controllers
+
+Microsoft Certified: Windows Server Hybrid Administrator Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/
+
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-800
+
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-801
+
+Active Directory Administration Learning Path | Pluralsight
+https://www.pluralsight.com/paths/active-directory-administration
+
+Install and Configure Active Directory Domain Services in Windows Server 2016 | Pluralsight
+https://www.pluralsight.com/courses/install-configure-adds-windows-server-2016
+
+Identity with Windows Server 2016 | Pluralsight
+https://www.pluralsight.com/paths/identity-with-windows-server-2016
+
+Active Directory Domain Services | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services
+
+Logical vs Physical Components - Active Directory Infrastructure Windows Server 2003
+https://www.serverbrain.org/active-directory-infrastructure-2003/logical-vs-physical-components.html
+
+Introduction to AD DS - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/introduction-to-ad-ds/
+
+Manage AD DS domain controllers and FSMO roles - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/manage-active-directory-domain-services-flexible-single-master-operation-roles/
+
+Manage advanced features of AD DS - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/manage-advanced-features-of-ad-ds/
+
+Implement hybrid identity with Windows Server - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/
+
+Deploy and manage Azure IaaS Active Directory domain controllers in Azure - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/
+
+Planning Domain Controller Placement | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/planning-domain-controller-placement
+
+Active Directory Subnets, Sites, and Site links - Windows Active Directory
+https://www.windows-active-directory.com/active-directory-subnets-sites-and-site-links.html
+
+ActiveDirectory Module | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2022-ps
+
+ExpressRoute or Virtual Network VPN – What’s right for me? | Azure Blog and Updates | Microsoft Azure
+https://azure.microsoft.com/en-us/blog/expressroute-or-virtual-network-vpn-whats-right-for-me/
+
+ifm | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732530(v=ws.11)
+
+How to Transfer and Seize FSMO Roles (GUI and PowerShell)
+https://adamtheautomator.com/transfer-fsmo-roles/
+
+

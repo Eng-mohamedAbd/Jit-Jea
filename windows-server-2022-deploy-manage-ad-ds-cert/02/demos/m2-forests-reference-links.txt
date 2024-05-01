@@ -1,0 +1,56 @@
+Module 2: Configure Active Directory Forest Environments
+
+Microsoft Certified: Windows Server Hybrid Administrator Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/
+
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-800
+
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-801
+
+Windows Server 2012 R2 (70-413) Logical AD Infrastructure | Pluralsight
+https://www.pluralsight.com/courses/windows-server-2012-70-413-logical-active-directory
+
+Managing Privileged Identities in Windows Server 2016 | Pluralsight
+https://www.pluralsight.com/courses/managing-privileged-identities-windows-server-2016
+
+Managing and Maintaining Windows Server 2019 Active Directory Domain Services | Pluralsight
+https://www.pluralsight.com/courses/managing-maintaining-windows-server-2019-active-directory-domain-services
+
+How trusts work for Azure AD Domain Services | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/concepts-forest-trust
+
+Managing Active Directory trusts in Windows Server 2016
+https://techgenix.com/active-directory-trusts/
+
+SID Filtering during AD Migrations - Active Directory FAQ
+https://activedirectoryfaq.com/2015/10/active-directory-sid-filtering/
+
+Designing the Site Topology | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/designing-the-site-topology
+
+Creating a Site Design | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/creating-a-site-design
+
+Active Directory Replication Concepts | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/replication/active-directory-replication-concepts
+
+How to get and use the Active Directory Replication Status Tool - Windows Server | Microsoft Docs
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/get-use-active-directory-replication-status-tool
+
+How to Troubleshoot AD Replication using Repadmin Tool - Serverspace.io
+https://serverspace.io/support/help/how-to-troubleshoot-ad-replication-using-repadmin-tool/
+
+Dcdiag | Microsoft Docs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731968(v=ws.11)
+
+Get-ADReplicationConnection (ActiveDirectory) | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/activedirectory/get-adreplicationconnection?view=windowsserver2022-ps
+
+Enhanced Security Admin Environment (ESAE) architecture mainstream retirement | Microsoft Docs
+https://docs.microsoft.com/en-us/security/compass/esae-retirement
+
+Securing privileged access overview | Microsoft Docs
+https://docs.microsoft.com/en-us/security/compass/overview
+

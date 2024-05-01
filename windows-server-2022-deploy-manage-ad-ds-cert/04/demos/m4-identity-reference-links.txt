@@ -1,0 +1,34 @@
+Module 4: Implement and Manage Hybrid Identities
+
+Microsoft Certified: Windows Server Hybrid Administrator Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/
+
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-800
+
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-801
+
+Implement and Manage Identities Using Azure AD Connect for Office 365 | Pluralsight
+https://www.pluralsight.com/courses/implement-manage-identities-azure-ad-o365
+
+Azure Course: Managing Microsoft Azure Active Directory | Pluralsight
+https://www.pluralsight.com/courses/microsoft-azure-managing-active-directory
+
+Azure AD Connect sync: Understand and customize synchronization | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-whatis
+
+What is Azure AD Connect and Connect Health. | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
+What is password hash synchronization with Azure AD? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-phs
+
+Azure AD Domain Services documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/
+
+Enable Azure Active Directory password writeback | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr-writeback
+
+
+
