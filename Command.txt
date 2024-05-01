@@ -1,0 +1,14 @@
+git config --global user.name "mohamed"
+git config --global user.email "mohamed@"
+git config --global --edit
+code
+git config --global core.editor "code --wait --new --new-windows"
+mkdir mohamedgit
+git status
+code readme.md	>> markdown
+git add readme.md
+git add .
+git commit -m "some comment"
+git commit -am "some comment"
+
+
