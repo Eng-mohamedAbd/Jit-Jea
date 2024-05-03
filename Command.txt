@@ -4,6 +4,12 @@ git config --global --edit
 code
 git config --global core.editor "code --wait --new --new-windows"
 mkdir mohamedgit
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "mohamed.abdullatif@hotmail.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+ssh -T git@github.com
+
 git status
 code readme.md	>> markdown
 git add readme.md
@@ -17,4 +23,5 @@ git push origin main
 
 
 fetch
+pull
 
