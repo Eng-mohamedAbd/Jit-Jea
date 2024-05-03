@@ -25,3 +25,8 @@ git push origin main
 fetch
 pull
 
+
+##############
+Collaborating Using the GitHub Flow
+-----------------------------------
+git checkout -b 'add-more-infructions'
