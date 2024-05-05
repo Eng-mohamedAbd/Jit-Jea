@@ -31,4 +31,5 @@ Collaborating Using the GitHub Flow
 -----------------------------------
 git brunch (brunch name)
 git checkout -b 'add-more-infructions'
+git checkout ## to switch between branches
 git push -u origin branch
