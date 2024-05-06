@@ -33,3 +33,10 @@ git brunch (brunch name)
 git checkout -b 'add-more-infructions'
 git checkout ## to switch between branches
 git push -u origin branch
+
+
+git tag
+git tag stable main
+git tag -a v0.1 -m "0.1 release" 3a06a16
+git log
+git log --oneline --graph --decorate --all
